@@ -1,0 +1,63 @@
+body {
+  font-size: 16px;
+  color: black;
+  background-color: #FAEBD7;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+/** HEADER **/
+#header-nav {
+  color: black;
+  background-color: #BDB76B;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  margin: 20px;
+  
+}
+
+.navbar-brand h1 { /* Company name */
+  color: black;
+  font-size: 2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  position: relative;
+  /*right: 20px;*/
+  line-height: .75;
+}
+
+h2{
+
+  margin: 50px;
+
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+  color: black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+#collapsable-nav a { /* Collapsed nav menu text */
+    color: black;
+    font-size: 1em;
+    text-align: center;
+    background-color: white;
+  }
+
+#main-content {
+  font-style: italic;
+  margin: 50px;
+  color: black;
+  height: 1000px;
+  background-color: #FFE4B5;
+
+
+}
