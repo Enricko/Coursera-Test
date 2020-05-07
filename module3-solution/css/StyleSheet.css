@@ -50,6 +50,8 @@ h2{
     font-size: 1em;
     text-align: center;
     background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
 #main-content {
